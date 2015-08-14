@@ -1,9 +1,10 @@
-Chromosome congression model
+Chromosome-congression 
 Copyright 2015 (c) Zsolt Bertalan
 
-part of the paper "Role of the Number of Microtubules in Chromosome Segregation during Cell Division"
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License 2 as published by  the Free Software Foundation.
+    
+The softwre is part of the paper "Role of the Number of Microtubules in Chromosome Segregation during Cell Division"
 (Zsolt Bertalan, Zoe Budrikis, Caterina A. M. La Porta, Stefano Zapperi, PLOS ONE 2015)
-
 
 ############ Congression Simulation
 
